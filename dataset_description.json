@@ -3,11 +3,11 @@
         "Nestor Zaragoza-Jimenez",
         "Hauke Niehaus",
         "Ina Thome",
-	"Christoph Vogelbacher",
-	"Gabriele Ende",
-	"Inge Kamp-Becker",
-	"Dominik Endres",
-	"Andreas Jansen"
+        "Christoph Vogelbacher",
+        "Gabriele Ende",
+        "Inge Kamp-Becker",
+        "Dominik Endres",
+        "Andreas Jansen"
     ],
     "BIDSVersion": "1.0.1",
     "DatasetDOI": "TODO: eventually a DOI for the dataset",
@@ -15,8 +15,8 @@
         "This work was supported by the German Research Council (Deutsche Forschungsgemeinschaft, DFG, project number 417284407)."
     ],
     "HowToAcknowledge": "please cite the corresponding paper ADD DOI LINK",
-    "License": "This FRAPPS dataset is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: http://opendatacommons.org/licenses/pddl/1.0/",
-    "Name": "FRAPPS",
+    "License": "CC0",
+    "Name": "Modeling Face Recognition in the Predictive Coding Framework: \nA Combined Computational Modeling and Functional Imaging Study - Stage 2",
     "ReferencesAndLinks": [
         "TODO",
         "List of papers or websites"
