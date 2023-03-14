@@ -1,7 +1,0 @@
-Modeling Face Recognition in the Predictive Coding Framework: A Combined Computational Modeling and Functional Imaging Study by Zaragoza, Niehaus, et al. 2022 (under review)
-
-This is the repository ONLY containing the fMRI raw data and associated code-scripts of both the level 1 and level 2 SPM-analyses of the connected publication. Note that this code was run on Windows 10 using MATLAB. For additional links see below:
-
-In-principle-accepted Stage 1 Pre-registration: https://doi.org/10.17605/OSF.IO/A8VU7 
-
-In-principle-accepted Stage 2 modeling scripts, behavioral data and preprint: https://osf.io/tye24/
