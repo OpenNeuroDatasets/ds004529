@@ -1,0 +1,4 @@
+*.csv
+*.mat
+*.log
+*bold-dummy-scans.nii.gz
